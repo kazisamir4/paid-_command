@@ -113,7 +113,7 @@ class Main:
 \033[1;36m│ [✓] POWER  : \x1b[1;32msamir\x1b[1;97m           │
 \033[1;32m└───────────────────────────────────────┘  
 """)
-		print("%s [%s•%s] %sTOOL NAME : %samir❌ PROO CLONER❌"%(G,R,G,B,G))
+		print("%s [%s•%s] %sTOOL NAME : %samir✌ PROO CLONER✌"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %s2.0"%(G,R,G,B,G))
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
